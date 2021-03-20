@@ -7,11 +7,15 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4",
     "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.5",
     "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.32.8",
     "vite": "^2.1.0"
   }
 }

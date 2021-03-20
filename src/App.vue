@@ -1,22 +1,25 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <div class="py-12 mx-4">
+    <header class="text-center">
+      <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">qbricks</h2>
+
+      <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900">
+        Component Name
+      </p>
+
+      <p class="mt-4 text-xl text-gray-500">
+          Simple description about a component made with Vue
+        </p>
+    </header>
+
+    <section class="flex mt-8">
+      <div class="w-full text-center">Place for basic component...</div>
+    </section>
+  </div>
 </template>
 
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-
-// This starter template is using Vue 3 experimental <script setup> SFCs
-// Check out https://github.com/vuejs/rfcs/blob/script-setup-2/active-rfcs/0000-script-setup.md
-</script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+<script>
+export default {
+  name: 'qbrics-starter-app'
 }
-</style>
+</script>
