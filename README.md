@@ -1,7 +1,7 @@
-# QBricks Select ![version](https://img.shields.io/badge/version-0.1-blue) [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/shodevio/qbrics-select/blob/master/LICENSE.md) [![Netlify Status](https://api.netlify.com/api/v1/badges/f35eaf00-427f-4c50-91ee-e93d8375adab/deploy-status)](https://app.netlify.com/sites/qbricks-select/deploys)
+# QBricks Select ![version](https://img.shields.io/badge/version-0.1-blue) [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/schodevio/qbricks-select/blob/main/LICENSE.md) [![Netlify Status](https://api.netlify.com/api/v1/badges/f35eaf00-427f-4c50-91ee-e93d8375adab/deploy-status)](https://app.netlify.com/sites/qbricks-select/deploys)
 A Select component made with Vue 3.0 & TailwindCSS
 
-[See demo](https://qbricks-select.netlify.app/)
+<a href="https://qbricks-select.netlify.app/" target="_blank">See demo</a>
 
 ## Playground
 
@@ -21,7 +21,7 @@ yarn install
 
 ##### 3. Run dev server
 
-Start [Vite](https://vitejs.dev/) server with Hot Module Replacement.
+Start <a href="https://vitejs.dev/" target="_blank">Vite</a> server with Hot Module Replacement.
 
 ```bash
 yarn dev
@@ -51,4 +51,4 @@ A good bug report must include the following four things:
 
 ## License
 
-MIT License
+[MIT License](https://github.com/schodevio/qbricks-select/blob/main/LICENSE.md)
