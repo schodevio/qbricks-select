@@ -8,7 +8,7 @@
       </p>
 
       <p class="mt-4 text-xl text-gray-500">
-        Custom select component made with Vue.js &amp; Tailwind CSS
+        A Select component made with Vue 3.0  &amp; TailwindCSS
       </p>
     </header>
 
