@@ -1,5 +1,5 @@
 <template>
-  <div class="py-12 mx-4 max-w-screen-lg mx-auto">
+  <div class="py-12 px-4 mx-4 max-w-screen-lg mx-auto">
     <header class="text-center">
       <h2 class="text-base text-indigo-600 font-semibold tracking-wide uppercase">qbricks</h2>
 
@@ -29,13 +29,15 @@
 
       <div class="w-full">
         <q-select
-          label="Pages"
+          label="Rows per page"
           :options="pages"
           v-model="pagesNum"
         />
 
         <p class="mt-4">
-          Show {{ pagesNum }} rows per page
+          Show
+          <strong>{{ pagesNum }}</strong>
+          rows per page
         </p>
       </div>
     </section>
