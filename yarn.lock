@@ -877,6 +877,11 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
+tailwind-scrollbar@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/tailwind-scrollbar/-/tailwind-scrollbar-1.2.4.tgz#27fff41883c2d6b453c1f0950410fa9407f0400d"
+  integrity sha512-vnB8U1T+FSsOsdko+3v4qJ2rGo7PwgB08xhN3E6Uvo1Wg91e61v06pXOl3Kyc3zRUE1V4jY/zPtfy4dt3Q3MWQ==
+
 tailwindcss@^2.0.4:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-2.0.4.tgz#cf13e62738c3a27065664e449d93b66ee2945506"
@@ -941,6 +946,11 @@ vite@^2.1.0:
     rollup "^2.38.5"
   optionalDependencies:
     fsevents "~2.3.1"
+
+vue3-click-away@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/vue3-click-away/-/vue3-click-away-1.1.0.tgz#4970159bc4c5b80f0aac6f0d0cc9333c150624d6"
+  integrity sha512-I1d/vX9vCW1on8MA7VeufV73iPL1WPaohzEJAA7SFsMDdUEEt59zW7xV3vEgS+VrwVAzcd3c1oX203RcCWS3Cw==
 
 vue@^3.0.5:
   version "3.0.7"
